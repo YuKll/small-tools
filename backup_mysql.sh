@@ -3,7 +3,7 @@
 #
 backupdir="/root/backup"
 dbuser="root"
-dbpassword="puxu1996"
+dbpassword=""
 db_defaults_file="/etc/my.cnf"
 full_backup_dir="$backupdir/fullback"
 insert_backup_dir="$backupdir/insert_back"
